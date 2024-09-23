@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411268942028",
+    "firebase_url": "https://fresho-a1092-default-rtdb.firebaseio.com",
+    "project_id": "fresho-a1092",
+    "storage_bucket": "fresho-a1092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411268942028:android:2157007ca15c56edbf5a69",
+        "android_client_info": {
+          "package_name": "com.rgrd.rohit.fresho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411268942028-nl72u2gfrikfcfqld0l7pd4bn9daf9ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rgrd.rohit.fresho",
+            "certificate_hash": "f5574ceb3a765f5db0b9c5d1f69fabfd7b31b104"
+          }
+        },
+        {
+          "client_id": "411268942028-87ncc52un2q98u65ibf9kvoutcrt1ism.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM3UpPPADfJsumFJyCgCznLZIOLyuFS3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411268942028-87ncc52un2q98u65ibf9kvoutcrt1ism.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
